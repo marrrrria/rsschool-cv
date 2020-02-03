@@ -29,3 +29,16 @@
 **Other skills:** _video editing, Excel knowledge_
 
 ---
+
+### Hobby and fun weekend projects
+
+**Hobby:** _Singing, dancing, photography, write poems_
+
+---
+
+### Education
+
+**Belarusian National Technical University, Minsk, Belarus**  
+**Specialist (faculty) –** Teacher-programmer (Professional Training (Informatics))
+
+**English:** A2
