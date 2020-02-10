@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+p {
+  font-size: 20px;
+  padding: 5px 0;
+  padding-left: 20px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+hr {
+  height: 12px;
+  background-color: rgba(128, 128, 128, 0.144);
+}
+
+a {
+  color: rgb(119, 119, 119);
+}
